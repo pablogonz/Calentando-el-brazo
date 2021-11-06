@@ -1,0 +1,15 @@
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\bin\Debug\net5.0\Calentando el brazo ejercicio 6.exe
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\bin\Debug\net5.0\Calentando el brazo ejercicio 6.deps.json
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\bin\Debug\net5.0\Calentando el brazo ejercicio 6.runtimeconfig.json
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\bin\Debug\net5.0\Calentando el brazo ejercicio 6.runtimeconfig.dev.json
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\bin\Debug\net5.0\Calentando el brazo ejercicio 6.dll
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\bin\Debug\net5.0\ref\Calentando el brazo ejercicio 6.dll
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\bin\Debug\net5.0\Calentando el brazo ejercicio 6.pdb
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\obj\Debug\net5.0\Calentando el brazo ejercicio 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\obj\Debug\net5.0\Calentando el brazo ejercicio 6.AssemblyInfoInputs.cache
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\obj\Debug\net5.0\Calentando el brazo ejercicio 6.AssemblyInfo.cs
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\obj\Debug\net5.0\Calentando el brazo ejercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\obj\Debug\net5.0\Calentando el brazo ejercicio 6.dll
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\obj\Debug\net5.0\ref\Calentando el brazo ejercicio 6.dll
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\obj\Debug\net5.0\Calentando el brazo ejercicio 6.pdb
+C:\Users\pjgon\source\repos\Calentando el brazo ejercicio 6\obj\Debug\net5.0\Calentando el brazo ejercicio 6.genruntimeconfig.cache
